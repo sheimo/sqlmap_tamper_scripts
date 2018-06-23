@@ -1,7 +1,7 @@
 # sqlmap_tamper_scripts
 A collection of tamper scripts used for sqlmap
 
-I haven't found a good post with the sqlmap tamper scripts where it's easy to copy, paste, and edit into your sqlmap command.
+I haven't found a good post where the sqlmap tamper scripts are formatted to easily copy, paste, and edit into your sqlmap command.
 
 --
 
